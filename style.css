@@ -7,7 +7,7 @@ body {
 #page{
    margin:30% auto;
    min-height:350px;
-   min-width:50%px;
+   min-width:50%;
    color:red;
    background:green;
 }
